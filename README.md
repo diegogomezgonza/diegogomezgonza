@@ -5,7 +5,7 @@
 <li>I'm currently living in Madrid. 🌃 </li>
 <li>My personal email is: diegogomezgonza9@gmail.com 📧</li>
   <br>
-  <li><h2>From all the technologies I study, the ones I love are Java, Ionic and Adobe XD. 🖥</h2></li>
+  <h2>From all the technologies I study, the ones I love are Java, Ionic and Adobe XD. 🖥</li>
 </ul>
 <h3>My skills:</h3>
 <p>
