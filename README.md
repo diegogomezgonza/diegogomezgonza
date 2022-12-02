@@ -1,4 +1,4 @@
-<h1>WHAT'S UP? I am Diego Gómez González ☺️()
+<h1>WHAT'S UP? I am Diego Gómez González ☺️
 </h1>
 <h2>Multiplatform Developer</h2>
 <ul>
@@ -10,6 +10,7 @@
 <h3>Technologies:</h3>
 <p>
 <a href="https://www.oracle.com/es/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"></a>
+<a href="https://ionicframework.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ionic-colored.svg" width="36" height="36"></a>
 <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36"></a>
 <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"></a>
