@@ -4,9 +4,8 @@
 <ul>
 <li>I'm currently living in Madrid. 🌃 </li>
 <li>My personal email is: diegogomezgonza9@gmail.com 📧</li>
-</li>
-<h2>From all the technologies I study, the ones I love are Java, Ionic and Adobe XD. 🖥</h2> 
-<h2>Another thing that I love is to learn English every day, so I am interested on everything that surrounds the lenguage. 📝</h2> 
+<li>From all the technologies I study, the ones I love are Java, Ionic and Adobe XD. 🖥 </li>
+<li>Another thing that I love is to learn English every day, so I am interested on everything that surrounds the lenguage. 📝 </li>
 </ul>
 <h3>Technologies:</h3>
 <p>
