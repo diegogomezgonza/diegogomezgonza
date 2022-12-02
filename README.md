@@ -1,11 +1,13 @@
-<h1>Hi 👋 My name is Ángel López Melero</h1>
+<h1>WHAT'S UP? I am Diego Gómez González ☺️()
+</h1>
 <h2>Multiplatform Developer</h2>
 <ul>
-<li>🌍  I'm based in Spain</li>
-<li>✉️  You can contact me at angel13112003@gmail.com</li>
-<li>Interested in Java and Ionic</li>
+<li>I'm currently living in Madrid. 🌃 </li>
+<li>My personal email is: diegogomezgonza9@gmail.com 📧</li>
+  <br>
+<li>From all the technologiesI study, the ones I love are Java, Ionic and Adobe XD. 🖥</li>
 </ul>
-<h3>Skills</h3>
+<h3>My skills:</h3>
 <p>
 <a href="https://www.oracle.com/es/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"></a>
 <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36"></a>
