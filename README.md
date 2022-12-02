@@ -20,6 +20,6 @@
 <li>SONY VEGAS PRO</li>
 <h3>Social</h3>
 <p>My personal email is: diegogomezgonza9@gmail.com 📧</p>
-<p><a href="https://www.linkedin.com/in/diego-g%C3%B3mez-gonz%C3%A1lez-372017199/">
+<p>LinkedIn<a href="https://www.linkedin.com/in/diego-g%C3%B3mez-gonz%C3%A1lez-372017199/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36">
 </a></p>
