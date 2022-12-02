@@ -6,8 +6,9 @@
 <li>My personal email is: diegogomezgonza9@gmail.com 📧</li>
 </li>
 <h2>From all the technologies I study, the ones I love are Java, Ionic and Adobe XD. 🖥</h2> 
+<h2>Another thing that I love is to learn English every day, so I am interested on everything that surrounds the lenguage. 📝</h2> 
 </ul>
-<h3>My skills:</h3>
+<h3>Technologies:</h3>
 <p>
 <a href="https://www.oracle.com/es/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"></a>
 <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36"></a>
