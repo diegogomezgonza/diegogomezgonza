@@ -17,29 +17,15 @@ Since technology is one of my passions, I decided to invest my time into getting
 * 📚   Regular reader. 
 * 📓   Been drawing since 2020.
 
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf">
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf">
-  
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-</p>
-
 </details>
   
 <hr>
 <p align="center">
   <i>My social media:</i>
 
-<p align="center">
-<a href= "https://www.linkedin.com/in/diego-g%C3%B3mez-gonz%C3%A1lez-372017199/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
-</p>
+LinkedIn: <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+  </a>
 
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
