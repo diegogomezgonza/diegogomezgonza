@@ -1,25 +1,22 @@
-# Hello there 👋
+# Hi there 👋
 
 ![]([![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegogomezcampusfp)](https://github.com/diegogomezcampusfp/github-readme-stats))
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+Since technology is one of my passions, I decided to invest my time into getting better at backend development mixing my design skills.  
 
-* 🧐   Interested in full stack. Recent focus on Infra.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
+* 💬   Upgrading my english knowledge everyday.
+* 🎓   Currently studying DAM.
+* 🎨   I've been using Photoshop Cs6 and VEGAS Pro for more than 5 years. I'm also learning about Clip Studio Paint.
+* 💾   Java, Angular, Kotlin and git are the technologies that I love the most.
+* 👥   I have the intention to make my workspace a place where I can help and learn from others.
 
 <details>
-  <summary>Some other achievements about me~e~e</summary>
+  <summary>Extra info about me</summary>
   <br>
 
-* 💖   Be proud of CMU. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work. 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
+* 📚   Regular reader. 
+* 📓   Been drawing since 2020.
+
 
 <p align="center">
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a>
@@ -43,13 +40,10 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
   
 <hr>
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <i>My social media:</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://www.linkedin.com/in/diego-g%C3%B3mez-gonz%C3%A1lez-372017199/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
 </p>
 
 <p  align="center">
