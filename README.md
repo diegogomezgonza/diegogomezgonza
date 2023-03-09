@@ -23,14 +23,13 @@ Since technology is one of my passions, I decided to invest my time into getting
 <p align="center">
   <i>My social media:</i>
 
-  <p align="center">
-LinkedIn: <a href="https://golang.org/" target="_blank" align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="90" />
+<p align="center">
+  <a href="https://golang.org/" target="_blank" align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="90" />
   </a>
-    </p>
+ </p>
     
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
 </p>
 </p>
