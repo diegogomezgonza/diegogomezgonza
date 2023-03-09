@@ -1,6 +1,6 @@
 # Hi there 👋
 
-([![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegogomezcampusfp)](https://github.com/diegogomezcampusfp/github-readme-stats))
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegogomezcampusfp)](https://github.com/diegogomezcampusfp/github-readme-stats))
 
 Since technology is one of my passions, I decided to invest my time into getting better at backend development mixing my design skills.  
 
