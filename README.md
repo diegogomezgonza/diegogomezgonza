@@ -20,8 +20,12 @@ Since technology is one of my passions, I decided to invest my time into getting
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
+<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf">
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" height="100" width="100"/></a>
+<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf">
+  
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
