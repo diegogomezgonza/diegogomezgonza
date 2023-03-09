@@ -30,7 +30,7 @@ Since technology is one of my passions, I decided to invest my time into getting
  </p>
     
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=diegogomezcampusfp.diegogomezcampusfp" alt="visitor badge"/>       
 </p>
 </p>
 
