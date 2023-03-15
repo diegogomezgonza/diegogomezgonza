@@ -1,7 +1,7 @@
 # Hi there 👋
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegogomezcampusfp&show_icons=true&theme=radical)](https://github.com/diegogomezcampusfp/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogomezcampusfp&show_icons=true&theme=radical&layout=compact)](https://github.com/diegogomezcampusfp/github-readme-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegogomezgonza&show_icons=true&theme=radical)](https://github.com/diegogomezgonza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogomezcgonzafp&show_icons=true&theme=radical&layout=compact)](https://github.com/diegogomezgonza/github-readme-stats)
 
 Since technology is one of my passions, I decided to invest my time into getting better at backend development mixing my design skills.  
 
@@ -31,7 +31,7 @@ Since technology is one of my passions, I decided to invest my time into getting
  </p>
     
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=diegogomezcampusfp.diegogomezcampusfp" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=diegogomezgonza.diegogomezgonza" alt="visitor badge"/>       
 </p>
 </p>
 
