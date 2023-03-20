@@ -15,7 +15,7 @@ Since technology is one of my passions, I decided to invest my time into getting
   <summary>Extra info about me</summary>
   <br>
 
-* 📚   Regular reader. 
+* 📚   Regular reader.
 * 📓   Been drawing since 2020.
 
 </details>
