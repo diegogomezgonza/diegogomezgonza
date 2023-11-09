@@ -8,22 +8,6 @@ Since technology is one of my passions, I decided to invest my time into getting
 * 💾   Java, Angular, Kotlin and git are the technologies that I love the most.
 * 👥   I have the intention to make my workspace a place where I can help and learn from others.
 
-<details>
-  <summary>Extra info about me</summary>
-  <br>
-
-* 📚   Regular reader.
-* 📓   Been drawing since 2020.
-
-</details>
-
-# Stats
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-
 # Database
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
