@@ -3,7 +3,7 @@
 <a href="https://github.com/diegogomezgonza/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=diegogomezgonza&theme=react&border=61dafb&hide_border=true" alt="diegogomezgonza" />
     </a>
-https://github-readme-stats.vercel.app/api/top-langs/?username=diegogomezgonza&show_icons=true&theme=radical&layout=compact
+
 
 Since technology is one of my passions, I decided to invest my time into getting better at backend development mixing my design skills.  
 
