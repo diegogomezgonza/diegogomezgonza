@@ -24,7 +24,7 @@ Since technology is one of my passions, I decided to invest my time into getting
   </div>
 
   <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C" height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AAngular_full_color_logo.svg&psig=AOvVaw1zREnyYrCJN_CtqmdvkdDp&ust=1699643709736000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCqtq7Qt4IDFQAAAAAdAAAAABAE"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
