@@ -1,7 +1,5 @@
 # Hi there 👋
 
-Since technology is one of my passions, I decided to invest my time into getting better at backend development mixing my design skills.  
-
 * 🎓   Currently studying to become a Full-stack developer.
 * 💾   JavaScript, Angular, React and git are the technologies that I love the most.
 * 🎨   I've been using Photoshop Cs6 and VEGAS Pro for more than 5 years. I also used Adobe XD and Figma.
