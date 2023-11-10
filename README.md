@@ -2,10 +2,10 @@
 
 Since technology is one of my passions, I decided to invest my time into getting better at backend development mixing my design skills.  
 
-* 💬   Upgrading my english knowledge everyday.
 * 🎓   Currently studying to become a Full-stack developer.
-* 🎨   I've been using Photoshop Cs6 and VEGAS Pro for more than 5 years. I'm also learning about Clip Studio Paint.
 * 💾   JavaScript, Angular, React and git are the technologies that I love the most.
+* 🎨   I've been using Photoshop Cs6 and VEGAS Pro for more than 5 years. I also used Adobe XD and Figma.
+* 💬   Upgrading my english knowledge everyday.
 * 👥   I have the intention to make my workspace a place where I can help and learn from others.
 
 # Database
