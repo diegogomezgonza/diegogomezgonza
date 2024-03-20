@@ -1,7 +1,7 @@
 # Hi there 👋
 
 * 🎓   Full-Stack developer
-* 💾   JavaScript, Angular, React and git are the technologies that I love the most.
+* 💾   JavaScript, Angular, React, Python and APIs are the technologies that I love the most.
 * 🎨   I've been using Photoshop Cs6 and VEGAS Pro for more than 5 years. I also used Adobe XD and Figma.
 * 💬   Upgrading my english knowledge everyday.
 * 👥   I have the intention to make my workspace a place where I can help and learn from others.
