@@ -37,7 +37,7 @@
   <i>My social media:</i>
 
 <p align="center">
-  <a href="https://golang.org/" target="_blank" align="center">
+  <a href="https://www.linkedin.com/in/diego-g%C3%B3mez-gonz%C3%A1lez-372017199/" target="_blank" align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="90" />
   </a>
  </p>
