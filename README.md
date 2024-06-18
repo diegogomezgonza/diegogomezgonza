@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome to my profile
 
 * 🎓   Full-Stack developer
 * 💾   JavaScript, Angular, React, Python and APIs are the technologies that I love the most.
