@@ -2,7 +2,7 @@
 
 * 🎓   Full-Stack developer AI
 * 💾   JavaScript, Angular, React, Python and APIs are the technologies that I love the most.
-- 💻   I also work using the Azure DevOps environment, developing code using Azure Functions and Azure Logic Apps.
+* 💻   I also work using the Azure DevOps environment, developing code using Azure Functions and Azure Logic Apps.
 * 🎨   I've been using Photoshop Cs6 and VEGAS Pro for more than 5 years. I also used Adobe XD and Figma.
 * 💬   Upgrading my english knowledge everyday (Current B2 with a C1 level on grammar).
 * 👥   I have the intention to make my workspace a place where I can help and learn from others.
