@@ -31,7 +31,6 @@
 </p>
 
 <hr>
-## Design
 <p align="center">
   <i>My social media:</i>
 
