@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-* 🎓   Full-Stack developer AI
+* 🎓   Full-Stack developer AI | AI Engineer
 * 💾   JavaScript, Angular, React, Python and APIs are the technologies that I love the most.
 * 💻   I also work using the Azure DevOps environment, developing code using Azure Functions and Azure Logic Apps.
 * 🎨   I've been using Photoshop Cs6 and VEGAS Pro for more than 5 years. I also used Adobe XD and Figma.
@@ -12,7 +12,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
 ## Database
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
