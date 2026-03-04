@@ -1,4 +1,4 @@
-# Full Stack and AI engineer | Cloud
+# Full Stack and AI engineer  Cloud
 
 * 🎓   Full-Stack Developer | AI Engineer | Cloud & DevOps
 * 💾   I enjoy building scalable applications using **JavaScript, Angular, React, Python, Java, SQL and APIs**.
