@@ -1,49 +1,54 @@
 # Diego Gómez González
 
-## Full-Stack AI Engineer | Agentic Engineering · LLM Applications · Cloud
+### Full-Stack AI Engineer · Madrid
 
-I build production software across product, frontend, backend, AI integrations, data, and cloud delivery.
+I work where product engineering meets applied AI. I take ideas from model or API to something people can actually use: the interface, backend workflows, data, deployment, and the feedback loop that keeps it reliable.
 
-Currently working at Salescaling, building AI-powered SaaS systems, agentic workflows, and human-in-the-loop development practices.
+I’m currently at Salescaling, building AI-powered SaaS products and agentic development workflows. I care about useful systems, clear boundaries, and keeping a person close to the important decisions.
 
-## What I work on
+## Where I spend my time
 
-- AI product engineering with LLMs, AI agents, RAG, embeddings, vector databases, and intelligent automations.
-- Full-stack systems with TypeScript, React, Next.js, Node.js, NestJS, Python, REST APIs, queues, and asynchronous workflows.
-- Cloud-native delivery with Docker, PostgreSQL, Redis, Supabase, AWS, Azure, CI/CD, monitoring, and observability.
-- LLM evaluation, Spanish NLP, prompt engineering, model integrations, and generative image workflows.
+- **AI product engineering** — turning LLMs, image models, audio tools, and external APIs into practical product features.
+- **Agentic workflows** — designing context, tools, queues, permissions, review steps, and guardrails around AI-assisted development.
+- **Full-stack delivery** — working across frontend, backend, data, integrations, authentication, payments, and deployment.
+- **Cloud and observability** — shipping with Docker, CI/CD, monitoring, and production feedback loops.
 
-## Selected work
+## A few things I’ve worked on
 
-- [Portfolio](https://www.dggdev.app/) — Full-stack AI engineering, cloud delivery, and selected projects.
-- [Neural Fashion](https://neuralfashion.ai/es/) — AI image generation platform for fashion brands and creative professionals.
-- [ForoGeeks](https://github.com/diegogomezgonza/foroGeeks) — Full-stack community platform using React, Flask, JWT, Firebase, and PostgreSQL.
-- [Voice Finder](https://github.com/diegogomezgonza/front-voiceFinder) — Cross-platform application built with Angular, Ionic, TypeScript, and Firebase.
+- [Neural Fashion](https://neuralfashion.ai/es/) — AI image generation platform for fashion brands and creative professionals. I worked across React, Python, Azure Functions, Blob Storage, and Azure DevOps.
+- [ForoGeeks](https://github.com/diegogomezgonza/foroGeeks) — full-stack community platform using React, Flask, JWT, Firebase, and PostgreSQL.
+- [Voice Finder](https://github.com/diegogomezgonza/front-voiceFinder) — cross-platform application built with Angular, Ionic, TypeScript, and Firebase.
+- [Portfolio](https://www.dggdev.app/) — a living overview of my work in AI product engineering, cloud delivery, and full-stack systems.
 
-## Experience
+## Recent experience
 
-- Full Stack AI Engineer — Salescaling
-- Full Stack AI Product Engineer — Performanze
-- Full Stack AI Developer & DevOps — Raona
-- AI Engineer — Outlier
+- **Salescaling** · Full Stack AI Engineer · 2026–now  
+  Production SaaS development across TypeScript, React, Next.js, NestJS, Node.js, AI integrations, databases, queues, cloud infrastructure, and observability.
 
-## Technical focus
+- **Performanze** · Full Stack AI Product Engineer · 2025–2026  
+  LLM-powered product features, REST APIs, Stripe integrations, AWS, Supabase, Docker, and AI-assisted development workflows.
 
-### Languages
+- **Raona** · Full Stack AI Developer & DevOps · 2024–2025  
+  AI image generation, Azure Functions, Azure SQL, Blob Storage, and CI/CD delivery for Neural Fashion.
 
-TypeScript · JavaScript · Python · Java · SQL
+- **Outlier** · AI Engineer · 2024  
+  Spanish NLP, LLM evaluation, dataset creation, fine-tuning workflows, and bilingual collaboration.
 
-### Frontend & backend
+## Tools I use
 
-React · Next.js · Angular · Ionic · Node.js · NestJS · Express · Flask · REST APIs
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,angular,ionic,nodejs,nestjs,express,flask,postgres,redis,supabase,docker,aws,azure,gcp,githubactions,git&perline=11" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Angular, Ionic, Node.js, NestJS, Express, Flask, PostgreSQL, Redis, Supabase, Docker, AWS, Azure, Google Cloud, GitHub Actions and Git" />
+  </a>
+</p>
 
-### AI engineering
+### AI and applied systems
 
-OpenAI API · Google Vertex AI · LangChain · Replicate · AI agents · RAG · Embeddings · Vector databases · LLM evaluation · Spanish NLP · Prompt engineering
+OpenAI API · Google Vertex AI · Replicate · LangChain · RAG · embeddings · vector databases · LLM evaluation · Spanish NLP · prompt engineering · generative image workflows
 
-### Data, cloud & delivery
+### Delivery and observability
 
-PostgreSQL · Redis · Supabase · Docker · AWS · Azure · Azure DevOps · CI/CD · Datadog · Langfuse · Git
+Azure DevOps · CI/CD · Datadog · Langfuse · REST APIs · BullMQ · authentication · permissions · payments
 
 ## Credentials
 
