@@ -12,14 +12,7 @@ I’m currently at Salescaling, building AI-powered SaaS products and agentic de
 - **Agentic workflows** — designing context, tools, queues, permissions, review steps, and guardrails around AI-assisted development.
 - **Full-stack delivery** — working across frontend, backend, data, integrations, authentication, payments, and deployment.
 - **Cloud and observability** — shipping with Docker, CI/CD, monitoring, and production feedback loops.
-
-## A few things I’ve worked on
-
-- [Neural Fashion](https://neuralfashion.ai/es/) — AI image generation platform for fashion brands and creative professionals. I worked across React, Python, Azure Functions, Blob Storage, and Azure DevOps.
-- [ForoGeeks](https://github.com/diegogomezgonza/foroGeeks) — full-stack community platform using React, Flask, JWT, Firebase, and PostgreSQL.
-- [Voice Finder](https://github.com/diegogomezgonza/front-voiceFinder) — cross-platform application built with Angular, Ionic, TypeScript, and Firebase.
-- [Portfolio](https://www.dggdev.app/) — a living overview of my work in AI product engineering, cloud delivery, and full-stack systems.
-
+- 
 ## Recent experience
 
 - **Salescaling** · Full Stack AI Engineer · 2026–now  
