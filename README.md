@@ -1,6 +1,6 @@
 # Diego Gómez González
 
-### Full-Stack AI Engineer · Madrid
+### Full-Stack AI Engineer | Deep Learning
 
 I work where product engineering meets applied AI. I take ideas from model or API to something people can actually use: the interface, backend workflows, data, deployment, and the feedback loop that keeps it reliable.
 
