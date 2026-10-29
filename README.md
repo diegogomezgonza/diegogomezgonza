@@ -12,7 +12,6 @@ I’m currently at Salescaling, building AI-powered SaaS products and agentic de
 - **Agentic workflows** — designing context, tools, queues, permissions, review steps, and guardrails around AI-assisted development.
 - **Full-stack delivery** — working across frontend, backend, data, integrations, authentication, payments, and deployment.
 - **Cloud and observability** — shipping with Docker, CI/CD, monitoring, and production feedback loops.
-- 
 ## Recent experience
 
 - **Salescaling** · Full Stack AI Engineer · 2026–now  
