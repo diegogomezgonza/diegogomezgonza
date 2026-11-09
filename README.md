@@ -8,23 +8,8 @@ I’m currently at Salescaling, building AI-powered SaaS products and agentic de
 
 ## Where I spend my time
 
-- **AI product engineering** — turning LLMs, image models, audio tools, and external APIs into practical product features.
-- **Agentic workflows** — designing context, tools, queues, permissions, review steps, and guardrails around AI-assisted development.
 - **Full-stack delivery** — working across frontend, backend, data, integrations, authentication, payments, and deployment.
-- **Cloud and observability** — shipping with Docker, CI/CD, monitoring, and production feedback loops.
-## Recent experience
-
-- **Salescaling** · Full Stack AI Engineer · 2026–now  
-  Production SaaS development across TypeScript, React, Next.js, NestJS, Node.js, AI integrations, databases, queues, cloud infrastructure, and observability.
-
-- **Performanze** · Full Stack AI Product Engineer · 2025–2026  
-  LLM-powered product features, REST APIs, Stripe integrations, AWS, Supabase, Docker, and AI-assisted development workflows.
-
-- **Raona** · Full Stack AI Developer & DevOps · 2024–2025  
-  AI image generation, Azure Functions, Azure SQL, Blob Storage, and CI/CD delivery for Neural Fashion.
-
-- **Outlier** · AI Engineer · 2024  
-  Spanish NLP, LLM evaluation, dataset creation, fine-tuning workflows, and bilingual collaboration.
+- **AI product engineering** — turning LLMs, image models, audio tools, and external APIs into practical product features.
 
 ## Tools I use
 
