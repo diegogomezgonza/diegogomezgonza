@@ -43,7 +43,7 @@ OpenAI API · Google Vertex AI · Replicate · LangChain · RAG · embeddings ·
 Azure DevOps · CI/CD · Datadog · Langfuse · REST APIs · BullMQ · authentication · permissions · payments
 
 ## Credentials
-
+- Introduction to Neural Networks and Deep Learning with Python
 - AWS Cloud Practitioner Essentials
 - AWS Machine Learning Foundations
 - Higher Vocational Diploma in Multiplatform Application Development
